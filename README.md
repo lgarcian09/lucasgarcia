@@ -14,5 +14,7 @@ El primer ejercicio es sobre Notas, los metodos que contienen son los siguientes
 		- MediaNota
 		- NumAprobados 
 		
+		
+		Los autores que han realizado este ejercicio ha sido. Lucas GN
 	
 
